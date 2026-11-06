@@ -9,8 +9,8 @@ las exigencias técnicas específicas de esta aplicación
 hacen que *la opción nativa sea la única que garantiza
 viabilidad, estabilidad y rendimiento óptimo*.
 
-Es por estas razones: desarrollo multiplataforma y
-despliegue web simplemente **innecesarios** y, las
-exigencias de la aplicación que creo que *Android
-nativo* es la opción adecuada, más allá de ser con la
-que trabajamos en este módulo.
+En definitiva, al ser _innecesarios los despliegues
+multiplataforma_ y sumado a los _exigentes requerimientos
+de la propia aplicación_, se determina que **Android 
+nativo es la opción idónea**, más allá de constituir la 
+tecnología principal de este módulo.
